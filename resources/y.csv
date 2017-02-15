@@ -1,0 +1,2608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+filename,line,severity,message,source
+[
+
+{ "filename": "E:\Ci_Workspace\workspace\IDPAntTestoing\JPetStore\src\com\ibatis\jpetstore\domain\Account.java"
+[
+
+{
+"line" : "0",
+"severity" : "error",
+"message":"File does not end with a newline.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"
+}
+
+
+{
+"line" : "0",
+"severity" : "error",
+"message":"Missing package-info.java file.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"
+}
+
+
+{
+"line" : "6",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"
+}
+
+
+{
+"line" : "10",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "11",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "12",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "13",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "14",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "15",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "16",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "17",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "18",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "19",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "20",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "21",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "22",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "23",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "24",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "25",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "26",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "27",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "31",
+"severity" : "error",
+"message":"Method 'getUsername' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "31",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "35",
+"severity" : "error",
+"message":"Method 'setUsername' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "35",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "35",
+"severity" : "error",
+"message":"Parameter username should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "35",
+"severity" : "error",
+"message":"'username' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "39",
+"severity" : "error",
+"message":"Method 'getPassword' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "39",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "43",
+"severity" : "error",
+"message":"Method 'setPassword' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "43",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "43",
+"severity" : "error",
+"message":"Parameter password should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "43",
+"severity" : "error",
+"message":"'password' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "47",
+"severity" : "error",
+"message":"Method 'getEmail' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "47",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "51",
+"severity" : "error",
+"message":"Method 'setEmail' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "51",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "51",
+"severity" : "error",
+"message":"Parameter email should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "51",
+"severity" : "error",
+"message":"'email' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "55",
+"severity" : "error",
+"message":"Method 'getFirstName' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "55",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "59",
+"severity" : "error",
+"message":"Method 'setFirstName' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "59",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "59",
+"severity" : "error",
+"message":"Parameter firstName should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "59",
+"severity" : "error",
+"message":"'firstName' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "63",
+"severity" : "error",
+"message":"Method 'getLastName' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "63",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "67",
+"severity" : "error",
+"message":"Method 'setLastName' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "67",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "67",
+"severity" : "error",
+"message":"Parameter lastName should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "67",
+"severity" : "error",
+"message":"'lastName' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "71",
+"severity" : "error",
+"message":"Method 'getStatus' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "71",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "75",
+"severity" : "error",
+"message":"Method 'setStatus' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "75",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "75",
+"severity" : "error",
+"message":"Parameter status should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "75",
+"severity" : "error",
+"message":"'status' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "79",
+"severity" : "error",
+"message":"Method 'getAddress1' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "79",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "83",
+"severity" : "error",
+"message":"Method 'setAddress1' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "83",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "83",
+"severity" : "error",
+"message":"Parameter address1 should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "83",
+"severity" : "error",
+"message":"'address1' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "87",
+"severity" : "error",
+"message":"Method 'getAddress2' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "87",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "91",
+"severity" : "error",
+"message":"Method 'setAddress2' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "91",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "91",
+"severity" : "error",
+"message":"Parameter address2 should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "91",
+"severity" : "error",
+"message":"'address2' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "95",
+"severity" : "error",
+"message":"Method 'getCity' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "95",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "99",
+"severity" : "error",
+"message":"Method 'setCity' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "99",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "99",
+"severity" : "error",
+"message":"Parameter city should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "99",
+"severity" : "error",
+"message":"'city' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "103",
+"severity" : "error",
+"message":"Method 'getState' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "103",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "107",
+"severity" : "error",
+"message":"Method 'setState' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "107",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "107",
+"severity" : "error",
+"message":"Parameter state should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "107",
+"severity" : "error",
+"message":"'state' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "111",
+"severity" : "error",
+"message":"Method 'getZip' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "111",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "115",
+"severity" : "error",
+"message":"Method 'setZip' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "115",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "115",
+"severity" : "error",
+"message":"Parameter zip should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "115",
+"severity" : "error",
+"message":"'zip' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "119",
+"severity" : "error",
+"message":"Method 'getCountry' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "119",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "123",
+"severity" : "error",
+"message":"Method 'setCountry' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "123",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "123",
+"severity" : "error",
+"message":"Parameter country should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "123",
+"severity" : "error",
+"message":"'country' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "127",
+"severity" : "error",
+"message":"Method 'getPhone' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "127",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "131",
+"severity" : "error",
+"message":"Method 'setPhone' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "131",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "131",
+"severity" : "error",
+"message":"Parameter phone should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "131",
+"severity" : "error",
+"message":"'phone' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "135",
+"severity" : "error",
+"message":"Method 'getFavouriteCategoryId' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "135",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "139",
+"severity" : "error",
+"message":"Method 'setFavouriteCategoryId' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "139",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "139",
+"severity" : "error",
+"message":"Parameter favouriteCategoryId should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "139",
+"severity" : "error",
+"message":"'favouriteCategoryId' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "143",
+"severity" : "error",
+"message":"Method 'getLanguagePreference' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "143",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "147",
+"severity" : "error",
+"message":"Method 'setLanguagePreference' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "147",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "147",
+"severity" : "error",
+"message":"Parameter languagePreference should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "147",
+"severity" : "error",
+"message":"'languagePreference' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "151",
+"severity" : "error",
+"message":"Method 'isListOption' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "151",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "155",
+"severity" : "error",
+"message":"Method 'setListOption' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "155",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "155",
+"severity" : "error",
+"message":"Parameter listOption should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "155",
+"severity" : "error",
+"message":"'listOption' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "159",
+"severity" : "error",
+"message":"Method 'isBannerOption' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "159",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "163",
+"severity" : "error",
+"message":"Method 'setBannerOption' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "163",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "163",
+"severity" : "error",
+"message":"Parameter bannerOption should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "163",
+"severity" : "error",
+"message":"'bannerOption' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "167",
+"severity" : "error",
+"message":"Method 'getBannerName' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "167",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "171",
+"severity" : "error",
+"message":"Method 'setBannerName' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "171",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "171",
+"severity" : "error",
+"message":"Parameter bannerName should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "171",
+"severity" : "error",
+"message":"'bannerName' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "0",
+"severity" : "error",
+"message":"File does not end with a newline.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"
+}
+
+
+{
+"line" : "8",
+"severity" : "error",
+"message":"Using the '.*' form of import should be avoided - java.util.*.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"
+}
+
+
+{
+"line" : "10",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"
+}
+
+
+{
+"line" : "14",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "15",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "19",
+"severity" : "error",
+"message":"Method 'getCartItems' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "19",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "23",
+"severity" : "error",
+"message":"Method 'getCartItemList' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "23",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "27",
+"severity" : "error",
+"message":"Method 'getNumberOfItems' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "27",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "33",
+"severity" : "error",
+"message":"Method 'getAllCartItems' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "33",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "43",
+"severity" : "error",
+"message":"Method 'containsItemId' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "43",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "43",
+"severity" : "error",
+"message":"Parameter itemId should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "47",
+"severity" : "error",
+"message":"Method 'addItem' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "47",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "47",
+"severity" : "error",
+"message":"Parameter item should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "47",
+"severity" : "error",
+"message":"Parameter isInStock should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "61",
+"severity" : "error",
+"message":"Method 'removeItemById' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "61",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "61",
+"severity" : "error",
+"message":"Parameter itemId should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "71",
+"severity" : "error",
+"message":"Method 'incrementQuantityByItemId' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "71",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "71",
+"severity" : "error",
+"message":"Parameter itemId should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "76",
+"severity" : "error",
+"message":"Method 'setQuantityByItemId' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "76",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "76",
+"severity" : "error",
+"message":"Parameter itemId should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "76",
+"severity" : "error",
+"message":"Parameter quantity should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "81",
+"severity" : "error",
+"message":"Method 'getSubTotal' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "81",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "88",
+"severity" : "error",
+"message":"Line is longer than 80 characters (found 83).",
+"source" : "com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"
+}
+
+
+]}
+[
+
+{ "filename": "E:\Ci_Workspace\workspace\IDPAntTestoing\JPetStore\src\com\ibatis\jpetstore\domain\Cart.java"
+[
+
+{
+"line" : "0",
+"severity" : "error",
+"message":"File does not end with a newline.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"
+}
+
+
+{
+"line" : "0",
+"severity" : "error",
+"message":"Missing package-info.java file.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"
+}
+
+
+{
+"line" : "6",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"
+}
+
+
+{
+"line" : "10",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "11",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "12",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "13",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "14",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "15",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "16",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "17",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "18",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "19",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "20",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "21",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "22",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "23",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "24",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "25",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "26",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "27",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "31",
+"severity" : "error",
+"message":"Method 'getUsername' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "31",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "35",
+"severity" : "error",
+"message":"Method 'setUsername' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "35",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "35",
+"severity" : "error",
+"message":"Parameter username should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "35",
+"severity" : "error",
+"message":"'username' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "39",
+"severity" : "error",
+"message":"Method 'getPassword' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "39",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "43",
+"severity" : "error",
+"message":"Method 'setPassword' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "43",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "43",
+"severity" : "error",
+"message":"Parameter password should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "43",
+"severity" : "error",
+"message":"'password' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "47",
+"severity" : "error",
+"message":"Method 'getEmail' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "47",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "51",
+"severity" : "error",
+"message":"Method 'setEmail' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "51",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "51",
+"severity" : "error",
+"message":"Parameter email should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "51",
+"severity" : "error",
+"message":"'email' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "55",
+"severity" : "error",
+"message":"Method 'getFirstName' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "55",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "59",
+"severity" : "error",
+"message":"Method 'setFirstName' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "59",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "59",
+"severity" : "error",
+"message":"Parameter firstName should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "59",
+"severity" : "error",
+"message":"'firstName' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "63",
+"severity" : "error",
+"message":"Method 'getLastName' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "63",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "67",
+"severity" : "error",
+"message":"Method 'setLastName' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "67",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "67",
+"severity" : "error",
+"message":"Parameter lastName should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "67",
+"severity" : "error",
+"message":"'lastName' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "71",
+"severity" : "error",
+"message":"Method 'getStatus' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "71",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "75",
+"severity" : "error",
+"message":"Method 'setStatus' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "75",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "75",
+"severity" : "error",
+"message":"Parameter status should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "75",
+"severity" : "error",
+"message":"'status' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "79",
+"severity" : "error",
+"message":"Method 'getAddress1' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "79",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "83",
+"severity" : "error",
+"message":"Method 'setAddress1' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "83",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "83",
+"severity" : "error",
+"message":"Parameter address1 should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "83",
+"severity" : "error",
+"message":"'address1' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "87",
+"severity" : "error",
+"message":"Method 'getAddress2' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "87",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "91",
+"severity" : "error",
+"message":"Method 'setAddress2' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "91",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "91",
+"severity" : "error",
+"message":"Parameter address2 should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "91",
+"severity" : "error",
+"message":"'address2' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "95",
+"severity" : "error",
+"message":"Method 'getCity' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "95",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "99",
+"severity" : "error",
+"message":"Method 'setCity' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "99",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "99",
+"severity" : "error",
+"message":"Parameter city should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "99",
+"severity" : "error",
+"message":"'city' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "103",
+"severity" : "error",
+"message":"Method 'getState' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "103",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "107",
+"severity" : "error",
+"message":"Method 'setState' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "107",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "107",
+"severity" : "error",
+"message":"Parameter state should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "107",
+"severity" : "error",
+"message":"'state' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "111",
+"severity" : "error",
+"message":"Method 'getZip' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "111",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "115",
+"severity" : "error",
+"message":"Method 'setZip' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "115",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "115",
+"severity" : "error",
+"message":"Parameter zip should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "115",
+"severity" : "error",
+"message":"'zip' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "119",
+"severity" : "error",
+"message":"Method 'getCountry' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "119",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "123",
+"severity" : "error",
+"message":"Method 'setCountry' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "123",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "123",
+"severity" : "error",
+"message":"Parameter country should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "123",
+"severity" : "error",
+"message":"'country' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "127",
+"severity" : "error",
+"message":"Method 'getPhone' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "127",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "131",
+"severity" : "error",
+"message":"Method 'setPhone' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "131",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "131",
+"severity" : "error",
+"message":"Parameter phone should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "131",
+"severity" : "error",
+"message":"'phone' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "135",
+"severity" : "error",
+"message":"Method 'getFavouriteCategoryId' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "135",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "139",
+"severity" : "error",
+"message":"Method 'setFavouriteCategoryId' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "139",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "139",
+"severity" : "error",
+"message":"Parameter favouriteCategoryId should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "139",
+"severity" : "error",
+"message":"'favouriteCategoryId' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "143",
+"severity" : "error",
+"message":"Method 'getLanguagePreference' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "143",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "147",
+"severity" : "error",
+"message":"Method 'setLanguagePreference' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "147",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "147",
+"severity" : "error",
+"message":"Parameter languagePreference should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "147",
+"severity" : "error",
+"message":"'languagePreference' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "151",
+"severity" : "error",
+"message":"Method 'isListOption' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "151",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "155",
+"severity" : "error",
+"message":"Method 'setListOption' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "155",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "155",
+"severity" : "error",
+"message":"Parameter listOption should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "155",
+"severity" : "error",
+"message":"'listOption' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "159",
+"severity" : "error",
+"message":"Method 'isBannerOption' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "159",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "163",
+"severity" : "error",
+"message":"Method 'setBannerOption' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "163",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "163",
+"severity" : "error",
+"message":"Parameter bannerOption should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "163",
+"severity" : "error",
+"message":"'bannerOption' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "167",
+"severity" : "error",
+"message":"Method 'getBannerName' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "167",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "171",
+"severity" : "error",
+"message":"Method 'setBannerName' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "171",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "171",
+"severity" : "error",
+"message":"Parameter bannerName should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "171",
+"severity" : "error",
+"message":"'bannerName' hides a field.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"
+}
+
+
+{
+"line" : "0",
+"severity" : "error",
+"message":"File does not end with a newline.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"
+}
+
+
+{
+"line" : "8",
+"severity" : "error",
+"message":"Using the '.*' form of import should be avoided - java.util.*.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"
+}
+
+
+{
+"line" : "10",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"
+}
+
+
+{
+"line" : "14",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "15",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"
+}
+
+
+{
+"line" : "19",
+"severity" : "error",
+"message":"Method 'getCartItems' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "19",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "23",
+"severity" : "error",
+"message":"Method 'getCartItemList' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "23",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "27",
+"severity" : "error",
+"message":"Method 'getNumberOfItems' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "27",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "33",
+"severity" : "error",
+"message":"Method 'getAllCartItems' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "33",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "43",
+"severity" : "error",
+"message":"Method 'containsItemId' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "43",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "43",
+"severity" : "error",
+"message":"Parameter itemId should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "47",
+"severity" : "error",
+"message":"Method 'addItem' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "47",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "47",
+"severity" : "error",
+"message":"Parameter item should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "47",
+"severity" : "error",
+"message":"Parameter isInStock should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "61",
+"severity" : "error",
+"message":"Method 'removeItemById' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "61",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "61",
+"severity" : "error",
+"message":"Parameter itemId should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "71",
+"severity" : "error",
+"message":"Method 'incrementQuantityByItemId' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "71",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "71",
+"severity" : "error",
+"message":"Parameter itemId should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "76",
+"severity" : "error",
+"message":"Method 'setQuantityByItemId' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "76",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "76",
+"severity" : "error",
+"message":"Parameter itemId should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "76",
+"severity" : "error",
+"message":"Parameter quantity should be final.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"
+}
+
+
+{
+"line" : "81",
+"severity" : "error",
+"message":"Method 'getSubTotal' is not designed for extension - needs to be abstract, final or empty.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"
+}
+
+
+{
+"line" : "81",
+"severity" : "error",
+"message":"Missing a Javadoc comment.",
+"source" : "com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"
+}
+
+
+{
+"line" : "88",
+"severity" : "error",
+"message":"Line is longer than 80 characters (found 83).",
+"source" : "com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"
+}
+
+
+]}
+
+]
